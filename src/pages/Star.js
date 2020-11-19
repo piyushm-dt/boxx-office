@@ -1,10 +1,11 @@
 import React from 'react'
+import MainPageLayout from '../components/MainPageLayout'
 
 function Star() {
     return (
-        <div>
+        <MainPageLayout>
             This is Star
-        </div>
+        </MainPageLayout>
     )
 }
 
