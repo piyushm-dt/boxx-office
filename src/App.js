@@ -2,6 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Star from './pages/Star';
+import Show from './pages/Show';
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
         <Star />
       </Route>
 
+      <Route exact path="/show/:id">
+        <Show />
+      </Route>
+      
       <Route>
         <div>
           Not Found !
