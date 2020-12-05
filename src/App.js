@@ -1,7 +1,7 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import Star from './pages/Star';
+import Star from './pages/Starred';
 import Show from './pages/Show';
 
 function App() {
