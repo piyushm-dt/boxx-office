@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/boxx-office/static/css/main.5fffadb5.chunk.css",
-    "main.js": "/boxx-office/static/js/main.5fbb3f8f.chunk.js",
-    "main.js.map": "/boxx-office/static/js/main.5fbb3f8f.chunk.js.map",
+    "main.js": "/boxx-office/static/js/main.23e4ddcb.chunk.js",
+    "main.js.map": "/boxx-office/static/js/main.23e4ddcb.chunk.js.map",
     "runtime-main.js": "/boxx-office/static/js/runtime-main.b60eb181.js",
     "runtime-main.js.map": "/boxx-office/static/js/runtime-main.b60eb181.js.map",
-    "static/js/2.91beb916.chunk.js": "/boxx-office/static/js/2.91beb916.chunk.js",
-    "static/js/2.91beb916.chunk.js.map": "/boxx-office/static/js/2.91beb916.chunk.js.map",
+    "static/js/2.b4c9f465.chunk.js": "/boxx-office/static/js/2.b4c9f465.chunk.js",
+    "static/js/2.b4c9f465.chunk.js.map": "/boxx-office/static/js/2.b4c9f465.chunk.js.map",
     "static/js/3.b8a6a75d.chunk.js": "/boxx-office/static/js/3.b8a6a75d.chunk.js",
     "static/js/3.b8a6a75d.chunk.js.map": "/boxx-office/static/js/3.b8a6a75d.chunk.js.map",
     "index.html": "/boxx-office/index.html",
     "static/css/main.5fffadb5.chunk.css.map": "/boxx-office/static/css/main.5fffadb5.chunk.css.map",
-    "static/js/2.91beb916.chunk.js.LICENSE.txt": "/boxx-office/static/js/2.91beb916.chunk.js.LICENSE.txt"
+    "static/js/2.b4c9f465.chunk.js.LICENSE.txt": "/boxx-office/static/js/2.b4c9f465.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b60eb181.js",
-    "static/js/2.91beb916.chunk.js",
+    "static/js/2.b4c9f465.chunk.js",
     "static/css/main.5fffadb5.chunk.css",
-    "static/js/main.5fbb3f8f.chunk.js"
+    "static/js/main.23e4ddcb.chunk.js"
   ]
 }
