@@ -14,7 +14,7 @@ export const LinkStyled = styled(Link)`
   padding: 3px 15px;
   position: relative;
   text-decoration: none;
-  color: ${({ theme }) => theme.mainColors.gray};
+  color: ${({ theme }) => theme.mainColors.black};
   &.active {
     color: ${({ theme }) => theme.mainColors.blue};
     &:after {
